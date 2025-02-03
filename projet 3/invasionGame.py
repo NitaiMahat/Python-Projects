@@ -1,9 +1,4 @@
 '''
-DONE BY: Zain and Nitai
-
-CSC 201
-Project 3
-
 Alien Invasion Game
 
 In this game, the player controls a spaceship to defeat waves of monsters,
